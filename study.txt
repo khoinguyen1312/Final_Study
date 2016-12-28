@@ -1,0 +1,753 @@
+Automated Grammar Checking of Tenses for ESL Writing
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-02962-2_60        
+    Abtract:
+        Various word-processing system have been developed to identify grammatical errors and mark learners’ essays. However, they are not specifically developed for Malaysian ESL (English as a second language) learners. A marking tool which is capable to identify errors in ESL writing for these learners is very much needed. Though there are numerous techniques adopted in grammar checking and automated essay marking system, research on the formation and use of heuristics to aid the construction of automated essay marking system has been scarce. This paper aims to introduce a heuristics based approach that can be utilized for grammar checking of tenses. This approach, which uses natural language processing technique, can be applied as part of the software requirement for a CBEM (Computer Based Essay Marking) system for ESL learners. The preliminary result based on the training set shows that the heuristics are useful and can improve the effectiveness of automated essay marking tool for detecting grammatical errors of tenses in ESL writing.        
+    Keyword:
+        
+        
+English Grammar Learning System Based on Knowledge Network of Fill-in-the-Blank Exercises
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-540-85567-5_73    
+    Abtract:
+        To understand English grammar is essential to write/speak/ read English appropriately. Fill-in-the-blank exercise of English grammar is one of the popular types of exercises, which is introduced to check acquired/in-acquired grammatical knowledge by evaluating the word selected by a learner for each sentence. Since such exercise-based learning is effective to acquire practical knowledge, our objective is to construct English grammar learning system using fill-in-the-blank exercises. In order to make learners study with the exercises effectively, the system should grasp the grammatical knowledge that learners need to obtain and give series of appropriate exercises. In our system, the knowledge network, which represents relations among exercises according to the differences in their knowledge, is introduced. In the knowledge network, exercises are linked by the inclusive relation of their knowledge. Based on the acquired/in-acquired grammatical knowledge determined by the learner’s answer, the system traverses knowledge network and poses the exercise which contains the knowledge that the learner needs to study.        
+    Keyword:
+        Fill-in-the-blank exercise
+        English grammar
+        individual learning support
+        knowledge network
+        
+        
+Generation Method of Multiple-Choice Cloze Exercises in Computer-Support for English-Grammar Learning
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-29934-6_28        
+    Abtract:
+        With many remarkable advances in technology, not only studying with tutor at school but also studying through computer at home become preferable. Intelligent Tutoring System (ITS) is one of the research fields which aim to support the individual learning intellectually. To provide the learning material of the domain knowledge in many ITS, the learning materials are statically associated with each other in advance and given to student based on her/his understanding state. Motivating student and making them more interested in the learning content is the system’s task in the computer-supported systems. If students study on content which they are interested in, learning activity becomes more effective. Our research objective is to construct a system which automatically generates multiple-choice cloze exercises from text input by the student. We focus on supporting individual study of learning English grammar. In this paper, we propose a representation method of English grammar by Part-Of-Speech (POS) tags and words, the calculation procedure for estimating the understanding state of student in the student model, and the learning strategy for generating the next exercise based on the student model.
+    Keyword:
+        Intelligent Tutoring System
+
+        
+Analogies, Explanations, and Practice: Examining How Task Types Affect Second Language Grammar Learning
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-13388-6_26
+    Abtract:
+        Self-explanation is an effective instructional strategy for improving problem solving in math and science domains. However, our previous studies, within the domain of second language grammar learning, show self-explanation to be no more effective than simple practice; perhaps the metalinguistic challenges involved in explaining using one’s non-native language are hampering the potential benefits. An alternative strategy is tutoring using analogical comparisons, which reduces language difficulties while continuing to encourage feature focusing and deep processing. In this paper, we investigate adult English language learners learning the English article system (e.g. the difference between “a dog” and “the dog”). We present the results of a classroom-based study (N=99) that compares practice-only to two conditions that facilitate deep processing: self-explanation with practice and analogy with practice. Results show that students in all conditions benefit from the instruction. However, students in the practice-only condition complete the instruction in significantly less time leading to greater learning efficiency. Possible explanations regarding the differences between language and science learning are discussed.
+    Keyword:    
+        Intelligent Tutoring Systems
+        Self-Explanation
+        Analogical Comparisons
+        Second Language Learning
+        
+
+Effects of Adaptive Prompted Self-explanation on Robust Learning of Second Language Grammar
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-21869-9_110
+    Abtract:
+        Prompted self-explanation is a successful intervention for many domains. However, in our previous work within the domain of second language grammar learning, we found no advantage for self-explanation over practice alone. Here, we continue testing the generality of self-explanation through the development of an adaptive self-explanation tutor and report on results of a classroom evaluation (N=92) in which we compare the adaptive tutor to a practice-only tutor. We investigate both procedural and declarative knowledge acquisition as well as long-term retention. Results show that while self-explanation takes more time than practice alone, it leads to greater learning of declarative knowledge. However, there are no differences between conditions on immediate or long-term retention measures of procedural knowledge.
+    Keyword:    
+        Self-explanation
+        Second Language Learning
+        Long-term Retention
+
+        
+Automatic Generation of Text-Based Open Cloze Exercises
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-319-12580-0_14   
+    Abtract:
+        This article presents an approach to the automatic generation of open cloze exercises that are based on real-life English texts. The exercise format is similar to the open cloze test used in Cambridge certificate exams (FCE, CAE, CPE). Two experiments were conducted to evaluate the usefulness on the machine-generated exercises and compare them with authentic Cambridge tests. The experiments showed that the generation method used was quite effective. With some customization, the presented method can be applied to generating similar exercises based on texts written in other languages.
+    Keyword:
+        Exercise generation
+        Open cloze
+        Language exercises
+        Computer-assisted language learning (CALL)
+        English as a foreign language (EFL)
+        
+
+Selecting English Multiple-Choice Cloze Questions Based on Difficulty-Based Features
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-22194-1_57
+    Abtract:
+        English multiple-choice cloze questions require learners of various grammatical and lexical knowledge. Since the knowledge of learners is different, it is difficult to provide appropriate questions suitable for learners’ understanding levels. This research determines features that affect to difficulties of questions and proposes the method for selecting questions according to the features for the stepwise learning. In order to manage the relations among questions, a question network is introduced in which questions are structured based on differences of each feature. Questions are selected by following appropriate links according the learners’ answers. By following this question network, learners are able to tackle questions from easier one to difficult one according to their understanding levels.
+    Keyword:    
+        
+
+** Toward Legal Argument Instruction with Graph Grammars and Collaborative Filtering Techniques
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/11774303_23
+    Abtract:
+        This paper presents an approach for intelligent tutoring in the field of legal argumentation. In this approach, students study transcripts of US Supreme Court oral argument and create a graphical representation of argument flow as tests offered by attorneys being challenged by hypotheticals posed by Justices. The proposed system, which is based on the collaborative modeling framework Cool Modes, is capable of detecting three types of weaknesses in arguments; when it does, it presents the student with a self explanation prompt. This kind of feedback seems more appropriate than the “strong connective feedback” typically offered by model-tracing or constraint-based tutors. Structural and context weaknesses in arguments are handled by graph grammars, and the critical problem of detecting and dealing with content weaknesses in student contributions is addressed through a collaborative filtering approach, thereby avoiding the critical problem of natural language processing in legal argumentation. An early version of the system was pilot tested with two students.
+    Keyword:    
+        grammar check
+
+
+Automatic Generation of Cloze Question Stems
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-28885-2_19
+    Abtract:
+        Fill-in-the-blank questions are one of the main assessment devices in REAP.PT tutoring system. The problem of automatically generating the stems, i.e. the sentences that serve as basis to this type of question, has been studied mostly for English, and it remains a challenge for a language as morphologically rich as European Portuguese (EP), for which additional data scarcity problems arise. To address this problem, a supervised classification technique is used to model a classifier that decides whether a given sentence is suitable to be used as a stem in a cloze question. The major focus is put in the feature engineering task, describing both the development of new criteria, and the adaptation to EP of features already explored in the literature. The resulting classifier filters out inadequate stems, allowing experts to build and personalize their instruction focusing on a set of potentially good sentences.
+    Keyword:    
+        Question Generation
+        Cloze Questions
+        CALL
+
+Recommendation Algorithm for Learning Materials That Maximizes Expected Test Scores
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-540-89197-0_92
+    Abtract:
+        We propose a recommendation algorithm for learning materials that enhances learning efficiency. Conventional recommendation methods consider user preferences and/or levels, but they do not directly consider the learning efficiency. With our method, the learning efficiency is quantified by the expected improvement in the test score, and materials are recommended so as to maximize this expected improvement. The expected improvement is calculated with logistic regression models that employ the user’s test result obtained before learning as input. Experimental results using fill-in-the-blank exercises for English learning show that our method yields major improvements in performance compared with random material recommendation.
+    Keyword:    
+        e-learning
+        personalization
+        adaptive tutoring systems
+        logistic regression
+
+
+Reducing Grammar Errors for Translated English Sentences
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-24553-4_41
+    Abtract:
+        One challenge of Myanmar-English statistical machine translation system is that the output (translated English sentence) can often be ungrammatical. To address this issue, this paper presents an ongoing grammar checker as a second language by using trigram language model and rule based model. It is able to solve distortion, deficiency and make smooth the translated English sentences. We identify the sentences with chunk types and generate context free grammar (CFG) rules for recognizing grammatical relations of chunks. There are three main tasks to reduce grammar errors: detecting the sentence patterns in chunk level, analyzing the chunk errors and correcting the errors. Such a three level scheme is a useful framework for a chunk based grammar checker. Experimental results show that the proposed grammar checker can improve the correctness of translated English sentences.
+    Keyword:    
+        Statistical machine translation
+        grammar checker
+        context free grammar
+
+
+Using Grammar Rules to Analyse English Sentences
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-1-4471-5487-7_12
+    Abtract:
+        This chapter describes the use of the special syntax provided in Prolog for analyzing grammar rules: the operator -->/2, the predicate phrase/2 and braces to enclose ’regular’ Prolog used in conjunction with grammar rules. A simple grammar able to deal with basic sentences is defined. Predicates are given to enable the validity of sentences presented as lists of words to be established and to extract important information such as the type of each noun_phrase from valid sentences. Finally, predicates are defined to convert sentences in standard English into the ’list of words’ form required by the grammar rules.
+        
+        After reading this chapter you should be able to:
+            - Understand and use the special syntax provided in Prolog for analyzing grammar rules.
+            - Define a simple grammar able to deal with basic sentences of English.
+            - Define predicates to enable the validity of sentences presented as lists of words to be established and to extract important information such as the type of each noun phrase from valid sentences.
+            - Define predicates to convert sentences in standard English into the ’list of words’ form required by Prolog grammar rules
+    Keyword:    
+        grammar check
+
+        
+Codeco: A Practical Notation for Controlled English Grammars in Predictive Editors
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-31175-8_6
+    Abtract:
+        This paper introduces a new grammar notation, called Codeco, designed for controlled natural language (CNL) and predictive editors. Existing grammar frameworks that target either formal or natural languages do not work out particularly well for CNL, especially if they are to be used in predictive editors and if anaphoric references should be resolved in a deterministic way. It is not trivial to build predictive editors that can precisely determine which anaphoric references are possible at a certain position. This paper shows how such complex structures can be represented in Codeco, a novel grammar notation for CNL. Two different parsers have been implemented (one in Prolog and another one in Java) and a large subset of Attempto Controlled English (ACE) has been represented in Codeco. The results show that Codeco is practical, adequate and efficient.
+
+        The work presented here was funded by the research grant (Forschungskredit) programs 2006 and 2008 of the University of Zurich.
+    Keyword:
+        
+
+
+Typeful Ontologies with Direct Multilingual Verbalization
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-31175-8_1
+    Abtract:
+        We have developed a methodology for representation of ontologies in a strictly typed language with dependent types. The methodology is supported by an experiment where we translated SUMO (Suggested Upper-Merged Ontology) to GF (Grammatical Framework). The representation of SUMO in GF preserves the expressivity of the original ontology, adding to this the advantages of a type system and built-in support for natural language generation. SUMO is the largest open-source ontology describing over 10,000 concepts and the relations between them, along with a number of first-order axioms, which are further on used in performing automated reasoning on the ontology. GF is a type-theoretical grammar formalism mainly used for natural language applications. Through the logical framework that it incorporates, GF allows a consistent ontology representation, and thanks to its grammatical features the ontology is directly verbalized in a number of controlled natural languages.
+    Keyword:
+        ontologies
+        type theory
+        knowledge representation
+        automated reasoning
+        
+        grammar check
+
+
+Applying Restricted English Grammar on Automotive Requirements—Does it Work? A Case Study
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-19858-8_17
+    Abtract:
+        [Context and motivation] For an automatic consistency check on requirements the requirements have to be formalized first. However, logical formalisms are seldom accessible to stakeholders in the automotive context. Konrad and Cheng proposed a restricted English grammar that can be automatically translated to logics, but looks like natural language. [Question/problem] In this paper we investigate whether this grammar can be applied in the automotive domain, in the sense that it is expressive enough to specify automotive behavioral requirements. [Principal ideas/results] We did a case study over 289 informal behavioral requirements taken from the automotive context. We evaluated whether these requirements could be formulated in the grammar and whether the grammar has to be adapted to the automotive context. [Contribution] The case study strongly indicates that the grammar, extended with 3 further patterns, is suited to specify automotive behavioral requirements of BOSCH.
+    Keyword:
+        automotive
+        requirements
+        formalization
+        real-time
+        
+        grammar check
+
+
+Developing a new grammar checker for English as a second language
+    Link:
+        http://www.aclweb.org/anthology/W97-0902
+    Abtract:
+        In this paper we describe the prototype of a new grammar checker specifically geared to the needs of French speakers writing in English. Most commercial grammar checkers on the market today are meant to be used by native speakers of a language who have good intuitions about their own language competence. Non-native speakers of a language, however, have different intuitions and are very easily confused by false alarms, i.e. error messages given by the grammar checker when there is in fact no error in the text. In our project aimed at developing a complete writing tool for the non-native speaker, we concentrated on building a grammar checker that keeps the rate of over-flagging down and on developing a user-friendly writing environment which contains, among other things, a series of on-line helps. The grammar checking component, which is the focus of this paper, uses island processing (or chunking) rather than a full parse. This approach is both rapid and appropriate when a text contains many errors. We explain how we use automata to identify multi-word units, detect errors (which we first isolated in a corpus of errors) and interact with the user. We end with a short evaluation of our prototype and compare it to three currently available commercial grammar checkers.
+    Keyword:
+        english grammar check
+
+
+An English Grammar Checker as a Writing Aid for Students of English as a Second Language
+    Link:
+        http://www.aclweb.org/anthology/A97-2014
+    Abtract:
+		We present a prototype grammar checker for English as a Second Language (ESL) students, utilizing Combinatory Categorial Grammar (CCG) written in SICStus Prolog. Instead of attempting to handle all possible grammatical errors, the grammar checker identifies certain specific types of grammatical mistakes that appear more regularly than others in the present domain of application. 
+    Keyword:
+        english grammar check
+
+
+Developing a Chunk-based Grammar Checker for Translated English Sentences
+    Link:
+        http://www.aclweb.org/anthology/Y11-1026
+    Abtract:
+        Machine Translation systems expect target language output to be grammatically correct. In Myanmar-English statistical machine translation system, target language output (English) can often be ungrammatical. To address this issue, we propose an ongoing chunk-based grammar checker by using trigram language model and rule based model. It is able to solve distortion, deficiency and make smooth the translated English sentences. We identify the sentences with chunk levels and generate context free grammar (CFG) rules for recognizing grammatical relations of chunks. There are three main processes to build a grammar checker: checking the sentence patterns in chunk level, analyzing the chunk errors and correcting the errors. According to experimental results, this checker can detect simple, compound and complex sentence types for declarative and interrogative sentences. This system is useful for reducing grammar errors of target language in Myanmar-English machine translation system.
+    Keyword:
+        english grammar check
+
+
+May I check the English of your paper!!!
+    Link:
+        http://www.aclweb.org/anthology/W11-2839
+    Abtract:
+        This paper reports about our work in the HOO shared task 2011. The task is to automatically correct the English of a given document. For that, we have developed a hybrid system of a statistical CRF based model along with a rule-based technique has been used. The system has been trained on the HOO shared task training datasets and run on the test set given by the organizer of HOO. We have submitted one run, which has been demonstrated F-score of 0.204, 0.178 and 0.167 for detection, recognition and correction respectively. 
+    Keyword:
+        english grammar check
+
+
+Automated Whole Sentence Grammar Correction Using a Noisy Channel Model
+    Link:
+        http://idiom.ucsd.edu/~rlevy/papers/park-levy-2011-acl.pdf
+    Abtract:
+        Automated grammar correction techniques have seen improvement over the years, but there is still much room for increased performance. Current correction techniques mainly focus on identifying and correcting a specific type of error, such as verb form misuse or preposition misuse, which restricts the corrections to a limited scope. We introduce a novel technique, based on a noisy channel model, which can utilize the whole sentence context to determine proper corrections. We show how to use the EM algorithm to learn the parameters of the noise model, using only a data set of erroneous sentences, given the proper language model. This frees us from the burden of acquiring a large corpora of corrected sentences. We also present a cheap and effi- cient way to provide automated evaluation results for grammar corrections by using BLEU and METEOR, in contrast to the commonly used manual evaluations.
+    Keyword:
+        english grammar check
+
+
+Detecting and Correcting Syntactic Errors in Machine Translation Using Feature-Based Lexicalized Tree Adjoining Grammars
+    Link:
+        http://www.cs.columbia.edu/nlp/papers/2012/ijclclp.pdf
+    Abtract:
+        Statistical machine translation has made tremendous progress over the past ten years. The output of even the best systems, however, is often ungrammatical because of the lack of sufficient linguistic knowledge. Even when systems incorporate syntax in the translation process, syntactic errors still result. To address this issue, we present a novel approach for detecting and correcting ungrammatical translations. In order to simultaneously detect multiple errors and their corresponding words in a formal framework, we use feature-based lexicalized tree adjoining grammars, where each lexical item is associated with a syntactic elementary tree, in which each node is associated with a set of feature-value pairs to define the lexical item’s syntactic usage. Our syntactic error detection works by checking the feature values of all lexical items within a sentence using a unification framework. In order to simultaneously detect multiple error types and track their corresponding words, we propose a new unification method which allows the unification procedure to continue when unification fails and also to propagate the failure information to relevant words. Once error types and their corresponding words are detected, one is able to correct errors based on a unified consideration of all related words under the same error types. In this paper, we present some simple mechanism to handle part of the detected situations. We use our approach to detect and correct translations of six single statistical machine translation systems. The results show that most of the corrected translations are improved.
+    Keyword:
+        english grammar check
+
+
+Correcting ESL Errors Using Phrasal SMT Techniques
+    Link:
+        https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/P06-10325B15D.pdf
+    Abtract:
+        This paper presents a pilot study of the use of phrasal Statistical Machine Translation (SMT) techniques to identify and correct writing errors made by learners of English as a Second Language (ESL). Using examples of mass noun errors found in the Chinese Learner Error Corpus (CLEC) to guide creation of an engineered training set, we show that application of the SMT paradigm can capture errors not well addressed by widely-used proofing tools designed for native speakers. Our system was able to correct 61.81% of mistakes in a set of naturallyoccurring examples of mass noun errors found on the World Wide Web, suggesting that efforts to collect alignable corpora of pre- and post-editing ESL writing samples offer can enable the development of SMT-based writing assistance tools capable of repairing many of the complex syntactic and lexical problems found in the writing of ESL learners. 
+    Keyword:
+        english grammar check
+
+
+Joint English Spelling Error Correction and POS Tagging for Language Learners Writing
+    Link:
+        http://cl.naist.jp/nldata/lang-8/coling2012-mizumoto.pdf
+    Abtract:
+        We propose an approach to correcting spelling errors and assigning part-of-speech (POS) tags simultaneously for sentences written by learners of English as a second language (ESL). In ESL writing, there are several types of errors such as preposition, determiner, verb, noun, and spelling errors. Spelling errors often interfere with POS tagging and syntactic parsing, which makes other error detection and correction tasks very difficult. In studies of grammatical error detection and correction in ESL writing, spelling correction has been regarded as a preprocessing step in a pipeline. However, several types of spelling errors in ESL are difficult to correct in the preprocessing, for example, homophones (e.g. *hear/here), confusion (*quiet/quite), split (*now a day/nowadays), merge (*swimingpool/swimming pool), inflection (*please/pleased) and derivation (*badly/bad), where the incorrect word is actually in the vocabulary and grammatical information is needed to disambiguate. 
+		In order to correct these spelling errors, and also typical typographical errors (*begginning/beginning), we propose a joint analysis of POS tagging and spelling error correction with a CRF (Conditional Random Field)-based model. We present an approach that achieves significantly better accuracies for both POS tagging and spelling correction, compared to existing approaches using either individual or pipeline analysis. We also show that the joint model can deal with novel types of misspelling in ESL writing. 
+    Keyword:
+        english grammar check
+
+
+Discovering Correction Rules for Auto Editing
+    Link:
+        http://www.aclclp.org.tw/clclp/v15n34/v15n34a4.pdf
+    Abtract:
+        This paper describes a framework that extracts effective correction rules from a sentence-aligned corpus and shows a practical application: auto-editing using the discovered rules. The framework exploits the methodology of finding the Levenshtein distance between sentences to identify the key parts of the rules and uses the editing corpus to filter, condense, and refine the rules. We have produced the rule candidates of such form, A -> B, where A stands for the erroneous pattern and B for the correct pattern. 
+		The developed framework is language independent; therefore, it can be applied to other languages. The evaluation of the discovered rules reveals that 67.2% of the top 1500 ranked rules are annotated as correct or mostly correct by experts. Based on the rules, we have developed an online auto-editing system for demonstration at http://ppt.cc/02yY. 
+    Keyword:
+        english grammar check
+		Edit Distance
+		Erroneous Pattern
+		Correction RrulesA
+		Auto Editing
+
+Grammatical Error Correction Using Integer Linear Programming
+    Link:
+        https://www.comp.nus.edu.sg/~nght/pubs/acl13.pdf
+    Abtract:
+        We propose a joint inference algorithm for grammatical error correction. Different from most previous work where different error types are corrected independently, our proposed inference process considers all possible errors in a unied framework. We use integer linear programming (ILP) to model the inference process, which can easily incorporate both the power of existing error classiers and prior knowledge on grammatical error correction. Experimental results on the Helping Our Own shared task show that our method is competitive with state-of-the-art systems. 
+    Keyword:
+        english grammar check
+
+
+Competitive Grammar Writing
+    Link:
+        https://www.cs.jhu.edu/~jason/papers/eisner+smith.tnlp08.pdf
+    Abtract:
+        Just as programming is the traditional introduction to computer science, writing grammars by hand is an excellent introduction to many topics in computational linguistics. We present and justify a well-tested introductory activity in which teams of mixed background compete to write probabilistic context-free grammars of English. The exercise brings together symbolic, probabilistic, algorithmic, and experimental issues in a way that is accessible to novices and enjoyable. 
+    Keyword:
+        english grammar check
+
+
+The CoNLL-2013 Shared Task on Grammatical Error Correction
+    Link:
+        http://www.comp.nus.edu.sg/~nlp/conll13st/CoNLLST01.pdf
+    Abtract:
+        The CoNLL-2013 shared task was devoted to grammatical error correction. In this paper, we give the task definition, present the data sets, and describe the evaluation metric and scorer used in the shared task. We also give an overview of the various approaches adopted by the participating teams, and present the evaluation results.
+    Keyword:
+        english grammar check
+
+		
+Automatic Category Label Coarsening for Syntax-Based Machine Translation
+    Link:
+        http://www.cs.cmu.edu/~ghannema/SSST-2011-LabelCollapsing.pdf
+    Abtract:
+        We consider SCFG-based MT systems that get syntactic category labels from parsing both the source and target sides of parallel training data. The resulting joint nonterminals often lead to needlessly large label sets that are not optimized for an MT scenario. This paper presents a method of iteratively coarsening a label set for a particular language pair and training corpus. We apply this label collapsing on Chinese–English and French–English grammars, obtaining test-set improvements of up to 2.8 BLEU, 5.2 TER, and 0.9 METEOR on Chinese–English translation. An analysis of label collapsing’s effect on the grammar and the decoding process is also given. 
+    Keyword:
+        english grammar check
+
+
+Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency
+    Link:
+        http://nlp.cs.berkeley.edu/pubs/Klein-Manning_2004_Induction_paper.pdf
+    Abtract:
+        We present a generative model for the unsupervised learning of dependency structures. We also describe the multiplicative combination of this dependency model with a model of linear constituency. The product model outperforms both components on their respective evaluation metrics, giving the best published figures for unsupervised dependency parsing and unsupervised constituency parsing. We also demonstrate that the combined model works and is robust cross-linguistically, being able to exploit either attachment or distributional regularities that are salient in the data.
+    Keyword:
+        english grammar check
+
+
+Automated Grammar Correction Using Hierarchical Phrase-Based Statistical Machine Translation
+    Link:
+        http://www.aclweb.org/anthology/I13-1122
+    Abtract:
+        We introduce a novel technique that uses hierarchical phrase-based statistical machine translation (SMT) for grammar correction. SMT systems provide a uniform platform for any sequence transformation task. Thus grammar correction can be considered a translation problem from incorrect text to correct text. Over the years, grammar correction data in the electronic form (i.e., parallel corpora of incorrect and correct sentences) has increased manifolds in quality and quantity, making SMT systems feasible for grammar correction. Firstly, sophisticated translation models like hierarchical phrase-based SMT can handle errors as complicated as reordering or insertion, which were diffi- cult to deal with previously throuh the mediation of rule based systems. Secondly, this SMT based correction technique is similar in spirit to human correction, because the system extracts grammar rules from the corpus and later uses these rules to translate incorrect sentences to correct sentences. We describe how to use Joshua, a hierarchical phrase-based SMT system for grammar correction. An accuracy of 0.77 (BLEU score) establishes the efficacy of our approach. 
+    Keyword:
+        english grammar check
+		fill in the blank
+
+
+Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners
+    Link:
+        https://aclweb.org/anthology/P/P13/P13-2043.pdf
+    Abtract:
+        We propose discriminative methods to generate semantic distractors of fill-in-theblank quiz for language learners using a large-scale language learners’ corpus. Unlike previous studies, the proposed methods aim at satisfying both reliability and validity of generated distractors; distractors should be exclusive against answers to avoid multiple answers in one quiz, and distractors should discriminate learners’ proficiency. Detailed user evaluation with 3 native and 23 non-native speakers of English shows that our methods achieve better reliability and validity than previous methods.
+    Keyword:
+        english grammar check
+		fill in the blank
+
+
+Automatic Generation of Context-Based Fill-in-the-Blank Exercises Using Co-occurrence Likelihoods and Google n-grams
+    Link:
+        http://aclweb.org/anthology/W/W16/W16-0503.pdf
+    Abtract:
+        In this paper, we propose a method of automatically generating multiple-choice fill-inthe-blank exercises from existing text passages that challenge a reader’s comprehension skills and contextual awareness. We use a unique application of word co-occurrence likelihoods and the Google n-grams corpus to select words with strong contextual links to their surrounding text, and to generate distractors that make sense only in an isolated narrow context and not in the full context of the passage. Results show that our method is successful at generating questions with distractors that are semantically consistent in a narrow context but inconsistent given the full text, with larger n-grams yielding significantly better results.
+    Keyword:
+        fill in the blank
+
+
+Filling in the Blanks in Understanding Discourse Adverbials: Consistency, Conflict, and Context-Dependence in a Crowdsourced Elicitation Task
+    Link:
+        http://aclweb.org/anthology/W16-1707
+    Abtract:
+        The semantic relationship between a sentence and its context may be marked explicitly, or left to inference. Rohde et al. (2015) showed that, contrary to common assumptions, this isn’t exclusive or: a conjunction can often be inferred alongside an explicit discourse adverbial. Here we broaden the investigation to a larger set of 20 discourse adverbials by eliciting ≈28K conjunction completions via crowdsourcing. Our data replicate and extend Rohde et al.’s findings that discourse adverbials do indeed license inferred conjunctions. Further, the diverse patterns observed for the adverbials include cases in which more than one valid connection can be inferred, each one endorsed by a substantial number of participants; such differences in annotation might otherwise be written off as annotator error or bias, or just a low level of inter-annotator agreement. These results will inform future discourse annotation endeavors by revealing where it is necessary to entertain implicit relations and elicit several judgments to fully characterize discourse relationships.
+    Keyword:
+        fill in the blank
+
+
+Automatic Gap-fill Question Generation from Text Books
+    Link:
+        http://www.aclweb.org/anthology/W11-1407
+    Abtract:
+        In this paper, we present an automatic question generation system that can generate gap-fill questions for content in a document. Gap-fill questions are fill-in-the-blank questions with multiple choices (one correct answer and three distractors) provided. The system finds the informative sentences from the document and generates gap-fill questions from them by first blanking keys from the sentences and then determining the distractors for these keys. Syntactic and lexical features are used in this process without relying on any external resource apart from the information in the document. We evaluated our system on two chapters of a standard biology textbook and presented the results.
+    Keyword:
+        fill in the blank
+
+
+* Personalized Exercises for Preposition Learning
+    Link:
+        https://www.aclweb.org/anthology/P/P16/P16-4020.pdf
+    Abtract:
+        We present a computer-assisted language learning (CALL) system that generates fill-in-the-blank items for preposition usage. The system takes a set of carrier sentences as input, chooses a preposition in each sentence as the key, and then automatically generates distractors. It personalizes item selection for the user in two ways. First, it logs items to which the user previously gave incorrect answers, and offers similar items in a future session as review. Second, it progresses from easier to harder sentences, to minimize any hindrance on preposition learning that might be posed by difficult vocabulary
+    Keyword:
+        fill in the blank
+
+
+Automatic Generation of Challenging Distractors Using Context-Sensitive Inference Rules
+    Link:
+        http://www.aclweb.org/anthology/W14-1817
+    Abtract:
+        Automatically generating challenging distractors for multiple-choice gap-fill items is still an unsolved problem. We propose to employ context-sensitive lexical inference rules in order to generate distractors that are semantically similar to the gap target word in some sense, but not in the particular sense induced by the gap-fill context. We hypothesize that such distractors should be particularly hard to distinguish from the correct answer. We focus on verbs as they are especially difficult to master for language learners and find that our approach is quite effective. In our test set of 20 items, our proposed method decreases the number of invalid distractors in 90% of the cases, and fully eliminates all of them in 65%. Further analysis on that dataset does not support our hypothesis regarding item difficulty as measured by average error rate of language learners. We conjecture that this may be due to limitations in our evaluation setting, which we plan to address in future work.
+    Keyword:
+        fill in the blank
+		Multiple-choice gap-fill 
+
+		
+Automatic Cloze-Questions Generation
+    Link:
+        https://aclweb.org/anthology/R/R13/R13-1067.pdf
+    Abtract:
+        Cloze questions are questions containing sentences with one or more blanks and multiple choices listed to pick an answer from. In this work, we present an automatic Cloze Question Generation (CQG) system that generates a list of important cloze questions given an English article. Our system is divided into three modules: sentence selection, keyword selection and distractor selection. We also present evaluation guidelines to evaluate CQG systems. Using these guidelines three evaluators report an average score of 3.18 (out of 4) on Cricket World Cup 2011 data.
+    Keyword:
+        fill in the blank
+
+
+A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories
+    Link:
+        https://aclweb.org/anthology/N/N16/N16-1098.pdf
+    Abtract:
+        Representation and learning of commonsense knowledge is one of the foundational problems in the quest to enable deep language understanding. This issue is particularly challenging for understanding casual and correlational relationships between events. While this topic has received a lot of interest in the NLP community, research has been hindered by the lack of a proper evaluation framework. This paper attempts to address this problem with a new framework for evaluating story understanding and script learning: the ‘Story Cloze Test’. This test requires a system to choose the correct ending to a four-sentence story. We created a new corpus of 50k five-sentence commonsense stories, ROCStories, to enable this evaluation. This corpus is unique in two ways: (1) it captures a rich set of causal and temporal commonsense relations between daily events, and (2) it is a high quality collection of everyday life stories that can also be used for story generation. Experimental evaluation shows that a host of baselines and state-of-the-art models based on shallow language understanding struggle to achieve a high score on the Story Cloze Test. We discuss these implications for script and story learning, and offer suggestions for deeper language understanding.
+    Keyword:
+        fill in the blank
+
+
+WebExperimenter for multiple-choice question generation
+    Link:
+        http://www.aclweb.org/anthology/H05-2010
+    Abtract:
+        Automatic generation of multiple-choice questions is an emerging topic in application of natural language processing. Particularly, applying it to language testing has been proved to be useful (Sumita et al., 2005).
+    Keyword:
+        fill in the blank
+
+
+Automatic Question Generation for Vocabulary Assessment
+    Link:
+        http://www.aclweb.org/anthology/H05-1103
+    Abtract:
+        In the REAP system, users are automatically provided with texts to read targeted to their individual reading levels. To find appropriate texts, the user’s vocabulary knowledge must be assessed. We describe an approach to automatically generating questions for vocabulary assessment. Traditionally, these assessments have been hand-written. Using data from WordNet, we generate 6 types of vocabulary questions. They can have several forms, including wordbank and multiple-choice. We present experimental results that suggest that these automatically-generated questions give a measure of vocabulary skill that correlates well with subject performance on independently developed humanwritten questions. In addition, strong correlations with standardized vocabulary tests point to the validity of our approach to automatic assessment of word knowledge. 
+        fill in the blank
+    Keyword:
+
+
+Judging the Quality of Automatically Generated Gap-fill Question using Active Learning
+    Link:
+        http://www.aclweb.org/anthology/W15-0623
+    Abtract:
+        In this paper, we propose to use active learning for training classifiers to judge the quality of gap-fill questions. Gap-fill questions are widely used for assessments in education contexts because they can be graded automatically while offering reliable assessment of learners’ knowledge level if appropriately calibrated. Active learning is a machine learning framework which is typically used when unlabeled data is abundant but manual annotation is slow and expensive. This is the case in many Natural Language Processing tasks, including automated question generation, which is our focus. A key task in automated question generation is judging the quality of the generated questions. Classifiers can be built to address this task which typically are trained on human labeled data. Our evaluation results suggest that the use of active learning leads to accurate classifiers for judging the quality of gap-fill questions while keeping the annotation costs in check. We are not aware of any previous effort that uses active learning for question evaluation. 
+    Keyword:
+        fill in the blank
+
+
+Automatic Gap-Fill Question Generation from Educational Texts
+    Link:
+        http://www.aclweb.org/anthology/W15-0618
+    Abtract:
+        This paper describes RevUP which deals with automatically generating gap-fill questions. RevUP consists of 3 parts: Sentence Selection, Gap Selection & Multiple Choice Distractor Selection. To select topicallyimportant sentences from texts, we propose a novel sentence ranking method based on topic distributions obtained from topic models. To select gap-phrases from each selected sentence, we collected human annotations, using the Amazon Mechanical Turk, on the relative relevance of candidate gaps. This data is used to train a discriminative classifier to predict the relevance of gaps, achieving an accuracy of 81.0%. Finally, we propose a novel method to choose distractors that are semantically similar to the gap-phrase and have contextual fit to the gap-fill question. By crowdsourcing the evaluation of our method through the Amazon Mechanical Turk, we found that 94% of the distractors selected were good. RevUP fills the semantic gap left open by previous work in this area, and represents a significant step towards automatically generating quality tests for teachers and self-motivated learners.
+    Keyword:
+        fill in the blank
+
+
+Mind the Gap: Learning to Choose Gaps for Question Generation
+    Link:
+        http://www.aclweb.org/anthology/N12-1092
+    Abtract:
+        Not all learning takes place in an educational setting: more and more self-motivated learners are turning to on-line text to learn about new topics. Our goal is to provide such learners with the well-known benefits of testing by automatically generating quiz questions for online text. Prior work on question generation has focused on the grammaticality of generated questions and generating effective multiple-choice distractors for individual question targets, both key parts of this problem. Our work focuses on the complementary aspect of determining what part of a sentence we should be asking about in the first place; we call this “gap selection.” We address this problem by asking human judges about the quality of questions generated from a Wikipedia-based corpus, and then training a model to effectively replicate these judgments. Our data shows that good gaps are of variable length and span all semantic roles, i.e., nouns as well as verbs, and that a majority of good questions do not focus on named entities. Our resulting system can generate fill-in-the-blank (cloze) questions from generic source materials. 
+    Keyword:
+        fill in the blank
+
+
+Measuring Non-native Speakers’ Proficiency of English by Using a Test with Automatically-Generated Fill-in-the-Blank Questions
+    Link:
+        http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.7815&rep=rep1&type=pdf
+    Abtract:
+        This paper proposes the automatic generation of Fill-in-the-Blank Questions (FBQs) together with testing based on Item Response Theory (IRT) to measure English proficiency. First, the proposal generates an FBQ from a given sentence in English. The position of a blank in the sentence is determined, and the word at that position is considered as the correct choice. The candidates for incorrect choices for the blank are hypothesized through a thesaurus. Then, each of the candidates is verified by using the Web. Finally, the blanked sentence, the correct choice and the incorrect choices surviving the verification are together laid out to form the FBQ. Second, the proficiency of nonnative speakers who took the test consisting of such FBQs is estimated through IRT. 
+		Our experimental results suggest that: (1) the generated questions plus IRT estimate the non-native speakers’ English proficiency; (2) while on the other hand, the test can be completed almost perfectly by English native speakers; and (3) the number of questions can be reduced by using item information in IRT. 
+		The proposed method provides teachers and testers with a tool that reduces time and expenditure for testing English proficiency. 
+    Keyword:
+        fill in the blank
+
+
+Generating Diagnostic Multiple Choice Comprehension Cloze Questions
+    Link:
+        https://pdfs.semanticscholar.org/5140/a32042673d1efabb70b463abcd4e49577e7a.pdf
+    Abtract:
+        This paper describes and evaluates DQGen, which automatically generates multiple choice cloze questions to test a child’s comprehension while reading a given text. Unlike previous methods, it generates different types of distracters designed to diagnose different types of comprehension failure, and tests comprehension not only of an individual sentence but of the context that precedes it. We evaluate the quality of the overall questions and the individual distracters, according to 8 human judges blind to the correct answers and intended distracter types. The results, errors, and judges’ comments reveal limitations and suggest how to address some of them.
+    Keyword:
+        fill in the blank
+
+NLP serving the cause of language learning
+    Link:
+        http://anthology.aclweb.org/W/W04/W04-1702.pdf
+    Abtract:
+        E-learning paves the way to a new type of course, more student centred, granulized, on demand, and highly interactive. Natural Language Processing (NLP) technologies associated with other multimedia technologies can help to address the major issues raised by this new type of courses: interaction, personalization and reliable information access. This paper presents Exills, a true elearning solution which integrates natural language processing tools and virtual reality1. Exills is unique in that,, unlike most of the language learning systems, it focuses on improving learners’ performance rather than learners’ competence. 
+    Keyword:
+        language learner
+
+
+Parsing entire discourses as very long strings: Capturing topic continuity in grounded language learning
+    Link:
+        http://nlp.stanford.edu/pubs/tacl2013_social.pdf
+    Abtract:
+        Grounded language learning, the task of mapping from natural language to a representation of meaning, has attracted more and more interest in recent years. In most work on this topic, however, utterances in a conversation are treated independently and discourse structure information is largely ignored. In the context of language acquisition, this independence assumption discards cues that are important to the learner, e.g., the fact that consecutive utterances are likely to share the same referent (Frank et al., 2013). The current paper describes an approach to the problem of simultaneously modeling grounded language at the sentence and discourse levels. We combine ideas from parsing and grammar induction to produce a parser that can handle long input strings with thousands of tokens, creating parse trees that represent full discourses. By casting grounded language learning as a grammatical inference task, we use our parser to extend the work of Johnson et al. (2012), investigating the importance of discourse continuity in children’s language acquisition and its interaction with social cues. Our model boosts performance in a language acquisition task and yields good discourse segmentations compared with human annotators.
+    Keyword:
+        language learner
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+
+
+Article
+    Link:
+        
+    Abtract:
+        
+    Keyword:
+        
+

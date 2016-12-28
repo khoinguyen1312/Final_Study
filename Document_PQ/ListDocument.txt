@@ -1,0 +1,67 @@
+Document 1:
+	Title:Applying Semantic Agents to Message Communication in e-Learning Environment
+	Abstract:A traditional distance learning system requires supervisors or teachers always available online to facilitate and monitor a learner's progress by answering questions and guiding users. This article presents an English chat room system in which students discuss course contents and ask questions to and receive from teachers and other students. The mechanism contains an agent that detects syntax errors in sentences written by the online user and also checks the semantics of a sentence. The agent can thus offer recommendations to the user and, then, analyze the data of the learner corpus. When users query the system, this system will attempt to find the answers from the knowledge ontology that is stored in the records of previous user comments. With the availability of automatic supervisors, messages can be monitored and syntax or semantic mistakes can be corrected to resolve learner-related problems.
+	Link:http://proxy.vnulib.edu.vn:2087/docview/201701531?accountid=39807
+	Subject:Distance learning;
+			Online instruction;
+			Grammar;
+			Semantic web;
+			Systems design;
+			Studies
+Document 2:
+	Title: Softwin SRL Romania; Patent Issued for Systems and Methods for Natural Language Processing Including Morphological Analysis, Lemmatizing, Spell Checking and Grammar Checking
+	Abstract: "According to another aspect, a system comprises a linguistic knowledgebase (LKB) for a natural language, a computer-implemented word retriever connected to the LKB, and a computer-implemented syntax checker connected to the word retriever.
+	Link: http://proxy.vnulib.edu.vn:2087/docview/1739123501?accountid=39807
+	Subject: Inventors;
+			Syntax;
+			Language;
+			Automation;
+			Linguistics;
+			Dictionaries;
+			Annotations;
+			Natural language
+Document 3:
+	Title: Development Of An English Grammar Checker: A Progress Report
+	Abstract: In order to leave more time for EFL teachers to work on higher-level re-writing tasks, we decided to develop a computer grammar checker. The first stage of development was devoted to error analysis of 125 writing samples collected from our students. We found 1659 errors and classified them into 14 main types and 93 subtypes. The analysis served as the basis for constructing a taxonomy of mistakes and ranking the categories according to frequency of occurrence and comprehensibility. To implement the grammar checker, we first built a small electronic dictionary with 1402 word stems and necessary features, and designed a suffix processor to accommodate morpho-syntactic variants of each word stem. We then constructed an ATN parser, equipped with phrase structure rules and error patterns. In addition, a set of disambiguating rules for multiple word categories was designed to eliminate unlikely categories and thus increase the parser's efficiency. The current implementation detects seven types of errors and provides corresponding feedback messages. Future research will be focused on detecting more types of mistakes with greater precision and on providing appropriate editing strategies.
+	Link: http://proxy.vnulib.edu.vn:2087/docview/750154065?accountid=39807
+Document 4:
+	Title:Answering questions with an n-gram based passage retrieval engine
+	Abstract: In this paper, we present a Question Answering system based on redundancy and a Passage Retrieval method that is specifically oriented to Question Answering. We suppose that in a large enough document collection the answer to a given question may appear in several different forms. Therefore, it is possible to find one or more sentences that contain the answer and that also include tokens from the original question. The Passage Retrieval engine is almost language-independent since it is based on n-gram structures. Question classification and answer extraction modules are based on shallow patterns.
+	Link:http://proxy.vnulib.edu.vn:2087/central/docview/200235183/abstract/6A74F51D31264477PQ/4?accountid=39807
+	Subject: Studies; Information retrieval; Systems design
+Document 5:
+	Title:Predicting word choice in affective text
+	Abstract:Choosing the best word or phrase for a given context from among the candidate near-synonyms, such as slim and skinny, is a difficult language generation problem. In this paper, we describe approaches to solving an instance of this problem, the lexical gap problem, with a particular focus on affect and subjectivity; to do this we draw upon techniques from the sentiment and subjectivity analysis fields. We present a supervised approach to this problem, initially with a unigram model that solidly outperforms the baseline, with a 6.8% increase in accuracy. The results to some extent confirm those from related problems, where feature presence outperforms feature frequency, and immediate context features generally outperform wider context features. However, this latter is somewhat surprisingly not always the case, and not necessarily where intuition might first suggest; and an analysis of where document-level models are in some cases better suggested that, in our corpus, broader features related to the 'tone' of the document could be useful, including document sentiment, document author, and a distance metric for weighting the wider lexical context of the gap itself. From these, our best model has a 10.1% increase in accuracy, corresponding to a 38% reduction in errors. Moreover, our models do not just improve accuracy on affective word choice, but on non-affective word choice also.
+	Link:http://proxy.vnulib.edu.vn:2087/central/docview/1737977831/1B76254692254C9EPQ/1?accountid=39807
+	Subject:
+	Reference***:http://proxy.vnulib.edu.vn:2087/central/citedreferences/MSTAR_1737977831/1B76254692254C9EPQ/1?accountid=39807
+Document 6:
+	Title:Judging Grammaticality: Experiments in Sentence Classification
+	Abstract:A classifier which is capable of distinguishing a syntactically well formed sentence from a syntactically ill formed one has the potential to be useful in an L2 language-learning context. In this article, we describe a classifier which classifies English sentences as either well formed or ill formed using information gleaned from three different natural language processing techniques. We describe the issues involved in acquiring data to train such a classifier and present experimental results for this classifier on a variety of ill formed sentences. We demonstrate that (a) the combination of information from a variety of linguistic sources is helpful, (b) the trade-off between accuracy on well formed sentences and accuracy on ill formed sentences can be fine tuned by training multiple classifiers in a voting scheme, and (c) the performance of the classifier is varied, with better performance on transcribed spoken sentences produced by less advanced language learners.
+	Link:http://proxy.vnulib.edu.vn:2087/docview/750619764/abstract/63582BFE0DDD4C68PQ/5?accountid=39807
+	Subject:
+Document 7:
+	Title:Generating example contexts to help children learn word meaning
+	Abstract: This article addresses the problem of generating good example contexts to help children learn vocabulary. We describe VEGEMATIC, a system that constructs such contexts by concatenating overlapping five-grams from Google's N-gram corpus. We propose and operationalize a set of constraints to identify good contexts. VEGEMATIC uses these constraints to filter, cluster, score, and select example contexts. An evaluation experiment compared the resulting contexts against human-authored example contexts (e.g., from children's dictionaries and children's stories). Based on rating by an expert blind to source, their average quality was comparable to story sentences, though not as good as dictionary examples. A second experiment measured the percentage of generated contexts rated by lay judges as acceptable, and how long it took to rate them. They accepted only 28% of the examples, but averaged only 27 seconds to find the first acceptable example for each target word. This result suggests that hand-vetting VEGEMATIC's output may supply example contexts faster than creating them manually. [PUBLICATION ABSTRACT]
+	Link:http://proxy.vnulib.edu.vn:2087/docview/1304180377/fulltextPDF/63582BFE0DDD4C68PQ/17?accountid=39807
+	Subject:
+Document 8:
+	Title:Improving word prediction using Markov models and Heuristic methods
+	Abstract:The goal of this project was to design and implement a new word predictor for Swedish that would suggest words that are more grammatically appropriate, thus presenting a lower cognitive load for users and saving significantly more keystrokes than the previous predictor. The new predictor that was designed and developed uses a probabilistic language model based on the well-established ideas of the trigram predictor for speech recognition, developed by IBM. In tests, this program has been shown to result in keystroke savings of 46% given five predictions-a substantial saving compared with the 35% savings achieved with the previous predictor.
+	Link:http://proxy.vnulib.edu.vn:2087/docview/220528788/fulltext/63582BFE0DDD4C68PQ/19?accountid=39807
+	Subject:lexicon, linguistic prediction, technology, word and class n-grams, word prediction, writing aids
+Document 9:
+	Title:Extending Capabilities of English to Marathi Machine Translator
+	Abstract: Machine Translation is one of the fastest growing research areas in the field of Natural Language Processing, with a special area of focus being Asian languages. Substantial work has been done in the case of Hindi and Bengali. The scope of this paper is to discuss the future scope of machine translation, with specific focus on translation of Marathi - a language spoken by over 70 million people [1]. The process of machine translation can be expanded to include the use of spelling and grammatical checks, intermediate language, sentiment analysis, proverbs and phrases. Keywords: Artificial Intelligence, Natural Language
+	Link:http://proxy.vnulib.edu.vn:2087/docview/1029940841/fulltext/63582BFE0DDD4C68PQ/24?accountid=39807
+	Subject:Processing, Generation, Parsing, Machine Translation (MT), Sense Tagging, POS Tagging, WordNet, Interlingua, Word Sense Disambiguation (WSD), Idioms and Phrases, Hindi, Marathi
+Document 10:
+	Title:On Combining Language Models to Improve a Text-based Human-machine Interface
+	Abstract:This paper concentrates on improving a text-based human-machine interface integrated into a robotic wheelchair. Since word prediction is one of the most common methods used in such systems, the goal of this work is to improve the results using this specific module. For this, an exponential interpolation language model (LM) is considered. First, a model based on partial differential equations is proposed; with the appropriate initial conditions, we are able to design a interpolation language model that merges a word -based n - gram language model and a part-of-speech-based language model. Improvements in keystroke saving (KSS) and perplexity (PP) over the word -based ngram language model and two other traditional interpolation models are obtained, considering two different task domains and three different languages. The proposed interpolation model also provides additional improvements over the hit rate (HR) parameter.
+	Link:http://proxy.vnulib.edu.vn:2087/docview/1788910472/abstract/C36B9E2E72D24DA6PQ/4?accountid=39807
+	Subject:
+Document 11:
+	Title:Natural language processing in an intelligent writing strategy tutoring system
+	Abstract:The Writing Pal is an intelligent tutoring system that provides writing strategy training. A large part of its artificial intelligence resides in the natural language processing algorithms to assess essay quality and guide feedback to students. Because writing is often highly nuanced and subjective, the development of these algorithms must consider a broad array of linguistic, rhetorical, and contextual features. This study assesses the potential for computational indices to predict human ratings of essay quality. Past studies have demonstrated that linguistic indices related to lexical diversity, word frequency, and syntactic complexity are significant predictors of human judgments of essay quality but that indices of cohesion are not. The present study extends prior work by including a larger data sample and an expanded set of indices to assess new lexical, syntactic, cohesion, rhetorical, and reading ease indices. Three models were assessed. The model reported by McNamara, Crossley, and McCarthy (Written Communication 27:57-86, 2010) including three indices of lexical diversity, word frequency, and syntactic complexity accounted for only 6 % of the variance in the larger data set. A regression model including the full set of indices examined in prior studies of writing predicted 38 % of the variance in human scores ...
+	Link:http://proxy.vnulib.edu.vn:2087/docview/1470090948/D231384F1A8E4A06PQ/11?accountid=39807
+	Subject:Writing;Automation;Algorithms;Essays;Intelligence;Writers;Semantics;Feedback;Pedagogy

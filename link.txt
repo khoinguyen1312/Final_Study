@@ -1,0 +1,351 @@
+book Intelligent Tutoring Systems in Spinger Link
+    Link:
+        http://proxy.vnulib.edu.vn:2065/book/10.1007/11774303
+    Summary:
+        Link to a book in Spinger Link - can search study having similar topic
+        
+
+book Controlled Natural Language
+    Link:
+        http://proxy.vnulib.edu.vn:2065/book/10.1007/978-3-642-31175-8
+    Summary:
+        
+      
+
+Link grammar
+    Link:
+        https://en.wikipedia.org/wiki/Link_grammar
+    Summary:
+        Link grammar connects the words in a sentence with links, similar in form to a catena. Unlike the catena or a traditional dependency grammar, the marking of the head-dependent relationship is optional for most languages, becoming mandatory only in free-word-order languages (such as Turkish,[3] Finnish, Hungarian, Lithuanian[4]). That is, in English, the subject-verb relationship is "obvious", in that the subject is almost always to the left of the verb, and thus no specific indication of dependency needs to be made. In the case of subject-verb inversion, a distinct link type is employed. For free word-order languages, this can no longer hold, and a link between the subject and verb must contain an explicit directional arrow to indicate which of the two words is which.
+        
+
+
+
+Machine Translation journal Springer Link
+    Link:
+        http://proxy.vnulib.edu.vn:2065/journal/10590
+    Summary:
+        Covers all branches of computational linguistics and language engineering, wherever they incorporate a multilingual aspect. It features papers that cover the theoretical, descriptive or computational aspects of any of the following topics:
+            - compilation and use of bi- and multilingual corpora
+            - computer-aided language instruction and learning
+            - computational implications of non-Roman character sets
+            - connectionist approaches to translation
+            - contrastive linguistics
+            - corpus-based and statistical language modeling
+            - discourse phenomena and their treatment in (human or machine) translation
+            - history of machine translation
+            - human translation theory and practice
+            - knowledge engineering
+            - machine translation and machine-aided translation
+            - minority languages
+            - morphology, syntax, semantics, pragmatics
+            - multilingual dialogue systems
+            - multilingual information retrieval
+            - multilingual information society (sociological and legal as well as linguistic aspects)
+            - multilingual message understanding systems
+            - multilingual natural language interfaces
+            - multilingual text composition and generation
+            - multilingual word-processing
+            - phonetics, phonology
+            - software localization and internationalization
+            - speech processing, especially for speech translation
+        
+
+
+
+book  Computational Linguistics and Intelligent Text Processing
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+journal Natural Language & Linguistic Theory
+    Link:
+        http://proxy.vnulib.edu.vn:2065/journal/11049
+    Summary:
+        Natural Language & Linguistic Theory provides a forum for the discussion of theoretical research that pays close attention to natural language data, offering a channel of communication between researchers of a variety of points of view. The journal actively seeks to bridge the gap between descriptive work and work of a highly theoretical, less empirically oriented nature. In attempting to strike this balance, the journal presents work that makes complex language data accessible to those unfamiliar with the language area being studied and work that makes complex theoretical positions more accessible to those working outside the theoretical framework under review. Natural Language & Linguistic Theory features: generative studies on the syntax, semantics, phonology, morphology, and other aspects of natural language; surveys of recent theoretical developments that facilitate accessibility for a graduate student readership; reactions/replies to recent papers book reviews of important linguistics titles; special topic issues
+        
+
+
+
+book Parsing Techniques
+    Link:
+        http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-0-387-68954-8_18
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
+
+book
+    Link:
+        
+    Summary:
+        
+        
+
+
