@@ -80,11 +80,16 @@ book Parsing Techniques
 
 
 
-book
+TOEFL Synonym Questions (State of the art)
     Link:
-        
+        https://www.aclweb.org/aclwiki/index.php?title=TOEFL_Synonym_Questions_(State_of_the_art)
     Summary:
-        
+        TOEFL = Test of English as a Foreign Language
+		80 multiple-choice synonym questions; 4 choices per question
+		the TOEFL questions are available on request by contacting LSA Support at CU Boulder, the people who manage the LSA web site at Colorado
+		introduced in Landauer and Dumais (1997) as a way of evaluating algorithms for measuring degree of similarity between words
+		subsequently used by many other researchers
+		see also: Similarity (State of the art)
         
 
 

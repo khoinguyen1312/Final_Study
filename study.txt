@@ -464,13 +464,13 @@ Parsing entire discourses as very long strings: Capturing topic continuity in gr
         language learner
 
 
-Article
+Effects of Meaning-Preserving Corrections on Language Learning
     Link:
-        
+        http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.207.5812&rep=rep1&type=pdf
     Abtract:
-        
+        We present a computational model of language learning via a sequence of interactions between a teacher and a learner. Experiments learning limited sublanguages of 10 natural languages show that the learner achieves a high level of performance after a reasonable number of interactions, the teacher can produce meaning-preserving corrections of the learner’s utterances, and the learner can detect them. The learner does not treat corrections specially; nonetheless in several cases, significantly fewer interactions are needed by a learner interacting with a correcting teacher than with a non-correcting teacher.
     Keyword:
-        
+        language learner
 
 
 Article
