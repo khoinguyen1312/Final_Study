@@ -1,0 +1,10 @@
+Solving English Questions through Applying Collective Intelligence
+    Link:
+        https://proxy.vnulib.edu.vn:2539/chapter/10.1007/978-3-642-22333-4_5
+    Abtract:
+        Abstract. Many researchers have been using n-gram statistics which is providing statistical information about cohesion among words to extract semantic information in web documents. Also, the n-gram has been applied in spell checking system, prediction of user interest and so on. This paper is a fundamental research to estimate lexical cohesion in documents using trigram, 4gram and 5gram offered by Google. The main purpose of this paper is estimating possibilities of Google n-gram using TOEIC question data sets. Keywords: N-gram, Natural Language Processing, Semantics. 
+    Keyword:
+        solving english question
+		N-gram
+		Natural Language Processing
+		Semantics 

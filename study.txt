@@ -473,6 +473,81 @@ Effects of Meaning-Preserving Corrections on Language Learning
         language learner
 
 
+Web-Based Multiple Choice Question Answering for English and Arabic Questions
+    Link:
+		https://proxy.vnulib.edu.vn:2539/chapter/10.1007/11735106_54
+    Abtract:
+        Abstract. Answering multiple-choice questions, where a set of possible answers is provided together with the question, constitutes a simplified but nevertheless challenging area in question answering research. This paper introduces and evaluates two novel techniques for answer selection. It furthermore analyses in how far performance figures obtained using the English language Web as data source can be transferred to less dominant languages on the Web, such as Arabic. Result evaluation is based on questions from both the English and the Arabic versions of the TV show “Who wants to be a Millionaire?” as well as on the TREC-2002 QA data.
+    Keyword:
+        answering question multiple choice english
+
+
+Solving English Questions through Applying Collective Intelligence
+    Link:
+        https://proxy.vnulib.edu.vn:2539/chapter/10.1007/978-3-642-22333-4_5
+    Abtract:
+        Abstract. Many researchers have been using n-gram statistics which is providing statistical information about cohesion among words to extract semantic information in web documents. Also, the n-gram has been applied in spell checking system, prediction of user interest and so on. This paper is a fundamental research to estimate lexical cohesion in documents using trigram, 4gram and 5gram offered by Google. The main purpose of this paper is estimating possibilities of Google n-gram using TOEIC question data sets. Keywords: N-gram, Natural Language Processing, Semantics. 
+    Keyword:
+        solving english question
+		N-gram
+		Natural Language Processing
+		Semantics 
+
+
+Answering questions with an n-gram based passage retrieval engine
+    Link:
+        https://proxy.vnulib.edu.vn:2539/article/10.1007/s10844-009-0082-y
+    Abtract:
+        In this paper, we present a Question Answering system based on redundancy and a Passage Retrieval method that is specifically oriented to Question Answering. We suppose that in a large enough document collection the answer to a given question may appear in several different forms. Therefore, it is possible to find one or more sentences that contain the answer and that also include tokens from the original question. The Passage Retrieval engine is almost language-independent since it is based on n-gram structures. Question classification and answer extraction modules are based on shallow patterns.
+    Keyword:
+        Question answering
+		Information retrieval and extraction
+		Passage retrieval
+
+
+How can corpora improve multiple choice grammar questions with multiple correct answers? The case of the relative pronoun who
+    Link:
+        http://www.birmingham.ac.uk/documents/college-artslaw/corpus/conference-archives/2011/Paper-175.pdf
+    Abtract:
+        Techniques of corpus analysis have been used to describe vocabulary and grammar, aiding the creation and improvement of dictionaries, word lists and grammars. Corpus linguistics has also been applied to various linguistic analyses, and recently corpora have been utilised in language testing (e.g. Barker 2010). However, this kind of research is relatively new and a framework for applying corpora and corpus techniques to language testing has not yet been fully developed, though both general corpora and learner corpora could be utilised in language testing in various ways
+    Keyword:
+        
+
+
+Design and evaluation of grammar checkers in multiple languages
+    Link:
+        http://aclweb.org/anthology/C00-2153
+    Abtract:
+        This paper describes issues involved in the development of a grammar checker in multiple languages at Microsoft Corporation. Focus is on design (selecting and prioritizing error identification rules) and evaluation (determining product quality).
+		The goal of the project discussed here is to develop French, German and Spanish grammar checkers for a broad user base consisting of millions of Microsoft Word customers – users who create documents of all types, styles and content, using various terminology and dialects, and who want proofing tools that help eliminate mistakes in an efficient and non-intruding fashion.
+		The fact that the user base is so broad poses many challenges, among them the questions of which errors are most common among such a diverse set of users, and what types of input the grammar checkers need to be tested and evaluated on.
+		This paper will describe the common methods and processes that we use across the language teams for design and evaluation, while focusing on language-specific characteristics for the actual product design. The central role of large text corpora in the three languages (including regional variations) for both design and evaluation will be discussed.
+    Keyword:
+        grammar check
+
+
+** LISGrammarChecker: Language Independent Statistical Grammar Checking Master Thesis to achieve the academic degree
+    Link:
+        http://documentslide.com/documents/masterthesishenrichreuterpdf.html
+    Abtract:
+        People produce texts, and therefore the use of computers rises more and more. The gramĥ matical correctness is often very important and thus grammar checkers are applied. Most nowadays grammar checkers are based on rules, but often they do not work as properly as the users want. To counteract this problem, new approaches use statistical data instead of rules as a basis. This work introduces such a grammar checker: LISGrammarChecker, a Language Independent Statistical Grammar Checker.
+		This work hypothesizes that it is possible to check grammar up to a certain extent by only using statistical data. The approach should facilitate grammar checking even in those lanĥ guages where ruleĥbased grammar checking is an insufficient solution, e.g. because the lanĥ guage is so complex that a mapping of all grammatical features to a set of rules is not possiĥ ble. 
+		LISGrammarChecker extracts nĥgrams from correct sentences to built up a statistical dataĥ base in a training phase. This data is used to nd errors and propose error corrections. It contains biĥ, triĥ, quadĥ and pentagrams of tokens and biĥ, triĥ, quadĥ and pentagrams of partĥ ofĥspeech tags. To detect errors every sentence is analyzed with regard to its nĥgrams. These nĥgrams are compared to those in the database. If an nĥgram is not found in the database, it is assumed to be incorrect. For every incorrect nĥgram an error point depending on the type of nĥgram is assigned.
+		Evaluation results prove that this approach works for different languages although the accuĥ racy of the grammar checking varies. Reasons are due to differences in the morphological richness of the languages. The reliability of the statistical data is very important, i.e. it is mandatory to provide enough data in good quality to nd all grammatical errors. The more tags the used tagset contains, the more grammatical features can be represented. Thus the quality of the statistical data and the used tagset inuence the quality of the grammar checkĥ ing result. The statistical data, i.e. the nĥgrams of tokens, can be extended by nĥgrams from the Internet. In spite of all improvements there are still many issues in nding reliably all grammatical errors. We counteract this problem by a combination of the statistical apĥ proach with selected language dependent rules. 
+    Keyword:
+		references
+        
+
+
+Google Books N-gram Corpus used as a Grammar Checker
+    Link:
+        http://delivery.acm.org/10.1145/2390000/2388652/p27-nazar.pdf?ip=27.64.97.203&id=2388652&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=922104479&CFTOKEN=68483586&__acm__=1491790244_a5fd0bcd127c41ce3995cc29c47f6b2b
+    Abtract:
+        In this research we explore the possibility of using a large n-gram corpus (Google Books) to derive lexical transition probabilities from the frequency of word n-grams and then use them to check and suggest corrections in a target text without the need for grammar rules. We conduct several experiments in Spanish, although our conclusions also reach other languages since the procedure is corpus-driven. The paper reports on experiments involving different types of grammar errors, which are conducted to test different grammar-checking procedures, namely, spotting possible errors, deciding between different lexical possibilities and filling-in the blanks in a text.
+    Keyword:
+        references
+
+
 Article
     Link:
         
@@ -506,71 +581,7 @@ Article
     Abtract:
         
     Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
-
-Article
-    Link:
-        
-    Abtract:
-        
-    Keyword:
-        
-
+         
 
 Article
     Link:
