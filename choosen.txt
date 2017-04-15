@@ -8,3 +8,33 @@ Solving English Questions through Applying Collective Intelligence
 		N-gram
 		Natural Language Processing
 		Semantics 
+		
+Exploiting Linguistic Features for Sentence Completion
+    Link:
+        https://www.aclweb.org/anthology/P/P16/P16-2071.pdf
+    Abtract:
+        This paper presents a novel approach to automated sentence completion based on pointwise mutual information (PMI). Feature sets are created by fusing the various types of input provided to other classes of language models, ultimately allowing multiple sources of both local and distant information to be considered. Furthermore, it is shown that additional precision gains may be achieved by incorporating feature sets of higher-order n-grams. Experimental results demonstrate that the PMI model outperforms all prior models and establishes a new state-of-the-art result on the Microsoft Research Sentence Completion Challenge.
+    Keyword:
+        automatic text completion
+		PMI model
+		
+LISGrammarChecker: Language Independent Statistical Grammar Checking Master Thesis to achieve the academic degree
+    Link:
+        http://documentslide.com/documents/masterthesishenrichreuterpdf.html
+    Abtract:
+        People produce texts, and therefore the use of computers rises more and more. The gramĥ matical correctness is often very important and thus grammar checkers are applied. Most nowadays grammar checkers are based on rules, but often they do not work as properly as the users want. To counteract this problem, new approaches use statistical data instead of rules as a basis. This work introduces such a grammar checker: LISGrammarChecker, a Language Independent Statistical Grammar Checker.
+		This work hypothesizes that it is possible to check grammar up to a certain extent by only using statistical data. The approach should facilitate grammar checking even in those lanĥ guages where ruleĥbased grammar checking is an insufficient solution, e.g. because the lanĥ guage is so complex that a mapping of all grammatical features to a set of rules is not possiĥ ble. 
+		LISGrammarChecker extracts nĥgrams from correct sentences to built up a statistical dataĥ base in a training phase. This data is used to nd errors and propose error corrections. It contains biĥ, triĥ, quadĥ and pentagrams of tokens and biĥ, triĥ, quadĥ and pentagrams of partĥ ofĥspeech tags. To detect errors every sentence is analyzed with regard to its nĥgrams. These nĥgrams are compared to those in the database. If an nĥgram is not found in the database, it is assumed to be incorrect. For every incorrect nĥgram an error point depending on the type of nĥgram is assigned.
+		Evaluation results prove that this approach works for different languages although the accuĥ racy of the grammar checking varies. Reasons are due to differences in the morphological richness of the languages. The reliability of the statistical data is very important, i.e. it is mandatory to provide enough data in good quality to nd all grammatical errors. The more tags the used tagset contains, the more grammatical features can be represented. Thus the quality of the statistical data and the used tagset inuence the quality of the grammar checkĥ ing result. The statistical data, i.e. the nĥgrams of tokens, can be extended by nĥgrams from the Internet. In spite of all improvements there are still many issues in nding reliably all grammatical errors. We counteract this problem by a combination of the statistical apĥ proach with selected language dependent rules. 
+    Keyword:
+		references
+		
+Google Books N-gram Corpus used as a Grammar Checker
+    Link:
+        http://delivery.acm.org/10.1145/2390000/2388652/p27-nazar.pdf?ip=27.64.97.203&id=2388652&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=922104479&CFTOKEN=68483586&__acm__=1491790244_a5fd0bcd127c41ce3995cc29c47f6b2b
+    Abtract:
+        In this research we explore the possibility of using a large n-gram corpus (Google Books) to derive lexical transition probabilities from the frequency of word n-grams and then use them to check and suggest corrections in a target text without the need for grammar rules. We conduct several experiments in Spanish, although our conclusions also reach other languages since the procedure is corpus-driven. The paper reports on experiments involving different types of grammar errors, which are conducted to test different grammar-checking procedures, namely, spotting possible errors, deciding between different lexical possibilities and filling-in the blanks in a text.
+    Keyword:
+        references		
+
+Reference

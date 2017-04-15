@@ -94,9 +94,9 @@ TOEFL Synonym Questions (State of the art)
 
 
 
-book
+MSR Sentence Completion Challenge
     Link:
-        
+        https://www.microsoft.com/en-us/research/project/msr-sentence-completion-challenge/
     Summary:
         
         

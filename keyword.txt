@@ -37,3 +37,7 @@ Multiple-choice gap-fill
 multiple-choice synonym
 
 answering questrion multiple choice english
+
+querry recommendation system
+automatic text completion
+spell checking
