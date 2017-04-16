@@ -28,9 +28,6 @@ English as a foreign language (EFL)
 developing CALL applications
 natural language generation
 
-Link Grammar
-
-http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-54906-9_19
 
 Multiple-choice gap-fill 
 
@@ -41,3 +38,5 @@ answering questrion multiple choice english
 querry recommendation system
 automatic text completion
 spell checking
+
+EasyEnglish
