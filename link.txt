@@ -82,8 +82,8 @@ book Parsing Techniques
 
 TOEFL Synonym Questions (State of the art)
     Link:
-        https://www.aclweb.org/aclwiki/index.php?title=TOEFL_Synonym_Questions_(State_of_the_art)
     Summary:
+        https://www.aclweb.org/aclwiki/index.php?title=TOEFL_Synonym_Questions_(State_of_the_art)
         TOEFL = Test of English as a Foreign Language
 		80 multiple-choice synonym questions; 4 choices per question
 		the TOEFL questions are available on request by contacting LSA Support at CU Boulder, the people who manage the LSA web site at Colorado
@@ -106,11 +106,11 @@ http://proxy.vnulib.edu.vn:2065/chapter/10.1007/978-3-642-54906-9_19
 
 
 
-book
+State of the art ACL
     Link:
-        
+        https://www.aclweb.org/aclwiki/index.php?title=State_of_the_art
     Summary:
-        
+        This will help newcomers to a field appreciate what has been done so far and what the main tasks are, and will help keep active researchers informed on fields other than their specific research
         
 
 
