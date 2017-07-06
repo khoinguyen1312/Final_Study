@@ -112,7 +112,7 @@ State of the art ACL
     Summary:
         This will help newcomers to a field appreciate what has been done so far and what the main tasks are, and will help keep active researchers informed on fields other than their specific research
         
-
+http://ieeexplore.ieee.org/document/6741431/?reload=true
 
 
 book
